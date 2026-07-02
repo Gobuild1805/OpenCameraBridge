@@ -1,4 +1,7 @@
 # OpenCameraBridge
+## Development status
+
+OpenCameraBridge is currently in early alpha development.
 
 OpenCameraBridge is an open-source application that connects RTSP cameras to cloud services and 3D printer ecosystems.
 
